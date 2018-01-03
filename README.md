@@ -13,7 +13,7 @@ There is no prerequisite knowledge needed to write AHK scripts. The only knowled
 ; + is Shift Key
 ; & can be used between any two keys or mouse buttons to combine them into a custom hotkey
 ```
-Any combination of the above keys along with the letter or numpad keys triggers a task to run. An example of the usage is provided in the [**Code Example**](https://github.com/sinharaksh1t/AHK-Automation#code-example) section.
+Any combination of the above keys along with the letter or numpad keys triggers a task to run. An example of the usage is provided in the [**Code Example**](#code-example) section.
 ### AutoHotKey Installation
 Install AutoHotKey from [their webiste](https://autohotkey.com/download/). Their docs are pretty concise, comprehensive and easy to follow. You can access them on [AutoHotKey Docs](https://autohotkey.com/docs/AutoHotkey.htm) link. [AHK Wiki](https://en.wikipedia.org/wiki/AutoHotkey) is also a great place to get quick access to AHK info.
 ## Code Example
