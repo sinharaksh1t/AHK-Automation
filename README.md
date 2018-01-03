@@ -28,7 +28,7 @@ Return
 #!g::run, https://github.com/sinharaksh1t
 Return
 ```
-For Folder Shortcuts
+For Folder Shortcuts:
 ```
 ;Opens the Dropbox folder of my local computer with the combination -> Ctrl + Shift + d
 ^+d::run, C:\Users\Rakshit Sinha\Dropbox
@@ -38,7 +38,7 @@ Return
 #q::run, C:\Users\Rakshit Sinha\Downloads
 Return
 ```
-For Starting Applications
+For Starting Applications:
 ```
 ;Opens the Windows Camera application with the combination -> Alt + c
 !c::run, microsoft.windows.camera:
@@ -46,7 +46,7 @@ For Starting Applications
 ;Opens the Windows Calendar application with the combination -> Windows key + c
 #c::run, outlookcal:
 ```
-Abbreviation Expansions
+Abbreviation Expansions:
 ```
 ;Expands "btw" into "by the way" (without quotes)
 ::btw::by the way
