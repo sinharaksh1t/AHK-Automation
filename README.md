@@ -18,7 +18,7 @@ Any combination of the above keys along with the letter or numpad keys triggers 
 Install AutoHotKey from [their webiste](https://autohotkey.com/download/). Their docs are pretty concise, comprehensive and easy to follow. You can access them on [AutoHotKey Docs](https://autohotkey.com/docs/AutoHotkey.htm) link.
 ## Code Example
 Below are a few examples of the code I used in the script with their description of what they do.
-For Web Links:
+* For Web Links:
 ```
 ;Opens YouTube on your default browser with the combination -> Windows Key + y
 #y::run, https://www.youtube.com
@@ -28,7 +28,7 @@ Return
 #!g::run, https://github.com/sinharaksh1t
 Return
 ```
-For Folder Shortcuts:
+* For Folder Shortcuts:
 ```
 ;Opens the Dropbox folder of my local computer with the combination -> Ctrl + Shift + d
 ^+d::run, C:\Users\Rakshit Sinha\Dropbox
@@ -38,7 +38,7 @@ Return
 #q::run, C:\Users\Rakshit Sinha\Downloads
 Return
 ```
-For Starting Applications:
+* For Starting Applications:
 ```
 ;Opens the Windows Camera application with the combination -> Alt + c
 !c::run, microsoft.windows.camera:
@@ -46,7 +46,7 @@ For Starting Applications:
 ;Opens the Windows Calendar application with the combination -> Windows key + c
 #c::run, outlookcal:
 ```
-Abbreviation Expansions:
+* Abbreviation Expansions:
 ```
 ;Expands "btw" into "by the way" (without quotes)
 ::btw::by the way
@@ -59,5 +59,5 @@ Abbreviation Expansions:
 :o:bscss::<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 ```
 ## Motivation
-On an average normal day, I spend about 60%-70% of my waking hours on my laptop. Being utterly uninterested in wasting my time doing common repeated tasks that I do each day, this idea of automation struck me. I dug deep into finding out the ways of achieving my needs and that's when I came across AutoHotKey. It has helped save quite a few hours of my life until now and it'll continue to save some more in the future.
+On an average day, I spend about over 60% of my waking hours on my laptop. Being utterly uninterested in wasting my time doing common repeated tasks that I do each day, this idea of automation struck me. I dug deep into finding out the ways of achieving my needs and that's when I came across AutoHotKey. It has helped save quite a few hours of my life until now and it'll continue to save some more in the future.
 If it helps you or you draw inspiration from this tiny project, consider giving it a star. :)
