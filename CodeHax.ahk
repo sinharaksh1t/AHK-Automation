@@ -54,10 +54,10 @@ Return
 #q::run, C:\Users\Rakshit Sinha\Downloads
 Return
 
-!x::run, C:\Users\Rakshit Sinha\Dropbox\Fall 2017
+!x::run, C:\Users\Rakshit Sinha\Dropbox\Spring 2018
 Return
 
-#z::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile\Classes\Fall 2017
+#z::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile\Classes\Spring 2018
 Return
 
 ^+d::run, C:\Users\Rakshit Sinha\Dropbox
@@ -67,6 +67,8 @@ Return
 Return
 
 ^!g::run, C:\Users\Rakshit Sinha\Dropbox\Git
+
+^m::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile\Music
 
 ;========================================================
 ;		    	Applications
@@ -87,18 +89,45 @@ Return
 ;========================================================
 
 :o:sop::System.out.println();{left 2}
+
 ::btw::by the way
+
 :o:psvm::public static void main(String args[])throws IOException {{}{enter}{right}{backspace}
+
+:o:@tester::
+(
+@Test
+public void test#() throws LexicalException {
+String input = "";
+Scanner scanner = new Scanner(input).scan();
+show(input);
+show(scanner);
+
+checkNextIsEOF(scanner);
+)
+
 :o:impall::
 (
 import java.io.*;
 import java.util.*;
 )
-::scanin::Scanner in = new Scanner(System.in);
+
+:o:scanin::Scanner in = new Scanner(System.in);
+
+:o:scer::Scanner scanner = new Scanner(input).scan();
+
 :o:ws::sinharakshit@gmail.com
+
 :o:wsf::sinharaksh1t@ufl.edu
+
 :o:rs::Rakshit Sinha
-:o:bscss::<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-:o:bsscript::<script src="http://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>{backspace 7}`n<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>{backspace 7}
-:o:fawesome::<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+:o:bscss::<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+
+:o:bsscript::<script src="http://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>{backspace 7}`n<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" crossorigin="anonymous"></script>{backspace 7}
+
+:o:fawesome::<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+
 :o:metaport::<meta name="viewport" content="width=device-width, initial-scale=1">
+
+:o:jsquery::<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>{backspace 7}
