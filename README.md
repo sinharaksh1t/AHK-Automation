@@ -59,5 +59,5 @@ Return
 :o:bscss::<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 ```
 ## Motivation
-On an average day, I spend about over 60% of my waking hours on my laptop. Being utterly uninterested in wasting my time doing common repeated tasks that I do each day, this idea of automation struck me. I dug deep into finding out the ways of achieving my needs and that's when I came across AutoHotKey. It has helped save quite a few hours of my life until now and it'll continue to save some more in the future.
+On an average day, I spend about over 60% of my waking hours on my laptop. Being utterly uninterested in wasting my time doing common repeated tasks that I do each day, this idea of automation struck me. I dug deep into finding out ways of achieving my needs and that's when I came across AutoHotKey. It has helped save quite a few hours of my life until now and it'll continue to save some more in the future.
 If it helps you or you draw inspiration from this tiny project, consider giving it a star. :)
