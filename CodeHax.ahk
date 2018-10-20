@@ -48,27 +48,26 @@ Return
 ;		    Folder Shortcuts
 ;========================================================
 
-#v::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile
+#v::run, C:\Users\sinha\OneDrive - University of Florida\BlackJack Profile
 Return
 
-#q::run, C:\Users\Rakshit Sinha\Downloads
+#q::run, C:\Users\sinha\Downloads
 Return
 
-!x::run, C:\Users\Rakshit Sinha\Dropbox\Spring 2018
+!x::run, C:\Users\sinha\OneDrive - University of Florida\BlackJack Profile\Classes\Resume
 Return
 
-#z::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile\Classes\Spring 2018
+^+d::run, C:\Users\sinha\Dropbox
 Return
 
-^+d::run, C:\Users\Rakshit Sinha\Dropbox
+!w::run, C:\Users\sinha\OneDrive - University of Florida\BlackJack Profile\Udemy\Web Developer Bootcamp
 Return
 
-!w::run, C:\Users\Rakshit Sinha\Dropbox\Udemy\Web Developer Bootcamp
-Return
+^!g::run, C:\Users\sinha\Dropbox\Git
 
-^!g::run, C:\Users\Rakshit Sinha\Dropbox\Git
+^m::run, C:\Users\sinha\OneDrive - University of Florida\BlackJack Profile\Music
 
-^m::run, C:\Users\Rakshit Sinha\Desktop\BlackJack Profile\Music
+^+m::run, C:\Users\sinha\OneDrive - University of Florida\BlackJack Profile\Movies
 
 ;========================================================
 ;		    	Applications
@@ -118,7 +117,9 @@ import java.util.*;
 
 :o:ws::sinharakshit@gmail.com
 
-:o:wsf::sinharaksh1t@ufl.edu
+:o:wsf::sinharaksh1t@outlook.com
+
+:o:wsff:sinharaksh1t@ufl.edu
 
 :o:rs::Rakshit Sinha
 
@@ -131,3 +132,11 @@ import java.util.*;
 :o:metaport::<meta name="viewport" content="width=device-width, initial-scale=1">
 
 :o:jsquery::<script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>{backspace 7}
+
+:o:rsf
+(
+Regards,
+Rakshit Sinha
+Email: sinharaksh1t@outlook.com
+Phone: +1 (352) 872-8863
+)
